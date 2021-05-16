@@ -4,11 +4,16 @@
   "description": "This is the help page.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "q:bump": "git add . && git commit -m \"bump\" && npm version minor && git push origin main --tags && npm publish"
+    "q:bump": "git add . && git commit -m \"bump\" && npm version minor && git push origin main --tags && npm publish",
+    "prepare": "husky install",
+    "process-files": "node ./_scripts/process-files.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bangle-io/bangle-io-help.git"
+  },
+  "lint-staged": {
+    "*.js": []
   },
   "keywords": [],
   "author": "Kushan Joshi",
@@ -17,7 +22,9 @@
     "url": "https://github.com/bangle-io/bangle-io-help/issues"
   },
   "homepage": "https://github.com/bangle-io/bangle-io-help#readme",
-  "dependencies": {
-    "globby": "^11.0.3"
+  "devDependencies": {
+    "globby": "^11.0.3",
+    "husky": "^6.0.0",
+    "lint-staged": "^11.0.0"
   }
 }
