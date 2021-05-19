@@ -10,11 +10,11 @@ Click on the Command Palette icon at top right.
 
 > :keyboard: Command Palette can be triggered by pressing `Command-Shift-p` on mac, `Ctrl-Shift-P` on windows, `Command-O` mac Firefox,  `Ctrl-O` windows Firefox.
 
-You can either search for a command or scroll through the list. We want to run the the `New workspace` command as shown below:
+You can either search for a command or scroll through the list. We want to run the`New workspace` command as shown below:
 
 ![](/assets/images/image-2021-05-18-23-53-04-138.png)
 
-Once executed select one of the following option:
+Once executed select one of the following options:
 
 - **Your computer**: This option allows bangle to open a directory in your computer, ideally have markdown notes. Note: It is currently only available in Chrome and Edge browsers.
 
