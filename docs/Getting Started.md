@@ -52,7 +52,7 @@ Bangle expects users to use standard markdown shortcuts to format text.
 
 - For link `Cmd+K `or select text and paste link on it.
 
--  \~~~strikethrough~~\~
+- \~~~strikethrough~~\~
 
 - For image drag or paste it directly.
 
@@ -60,21 +60,11 @@ Bangle expects users to use standard markdown shortcuts to format text.
 
 - `` `inline code` ``
 
--  `*` followed by space for bullet point or `Cmd-shift-8`
+- `*` followed by space for bullet point or `Cmd-shift-8`
 
 - `1.` follow by space for numbered list or `Cmd-shift-9`
 
--  `[ ]` followed by space for todo list or `Cmd-shift-7`
-
--  # H1 title
-
--  ## H2 title
-
--  ### H3 title
-
--  #### H4 title
-
--  ##### H5 title
+- `[ ]` followed by space for todo list or `Cmd-shift-7`
 
 You can also select the test to bring up the floating menu to making formatting changes.
 
