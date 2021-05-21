@@ -14,33 +14,33 @@ _(_:bulb: _yes you can edit this page!)_
 
 ### 1. You own your notes
 
-- Bangle reads and stores notes from a folder of your choice **right in your computer**. This means your data stays local and never leaves your computer.
+- **Local:** Modify notes right from your computer. Think Notion, but local only.
 
-- Bangle uses Markdown syntax to save your files so that to avoid data lock-in and keep it human readable.
+- **No data lock-in:** bangle stores your notes in a human readable **_Markdown_** format.
 
-### 2. Simple, extensible and powerful
+### 2. Not your usual note taking app
 
-- Bangle is a WYSIWYG editor. It is surprising that majority of the fancy markdown note apps do not have WYSIWYG and force the user to switch context between two split screens. _(Bangle has a split screen, but that is for multitasking different notes.)_
+- **WYSIWYG**: Even though we save things in Markdown format, Bangle will enrich your eyes with rich text formatting.
 
-- I have spent a lot of time first perfecting the editor (see [bangle.dev](https://github.com/bangle-io/bangle.dev)) which will me to build a powerful editor like [Notion](https://www.notion.so/) or [Dropbox paper](https://www.dropbox.com/paper) and support real time collaboration.
+- **Modern rich text editor:** Bangle uses its sister project [bangle.dev](https://github.com/bangle-io/bangle.dev) which unlocks us to build a powerful editor like [Notion](https://www.notion.so/) or [Dropbox paper](https://www.dropbox.com/paper) and support real time collaboration.
 
-- Extensibility is one of the reasons I wanted to build a new note taking app. The core features of bangle are encapsulated in an extension and I am working on finalizing the API to allow for community built extensions.
+- **Extensibility:** Even though it's a web app it was built ground up to be extended by awesome extensions. (_We have bunch of community extensions coming out soon.)_
 
-### 3. Portable
+### 3. Portability at its core
 
-- I :heart: web and I strongly believe in [PWA](https://medium.com/free-code-camp/an-explanation-of-progressive-web-apps-for-the-non-pwa-crowd-8a400e275ea1)s, which is why I donot intend to make this an Electron app.
+- **No Electron:**  :heart: for web and speed, thats it.
 
-- Bangle.io is fast and performant. Try opening a heavy project like [10,000 Markdown Files](https://github.com/Zettelkasten-Method/10000-markdown-files) to test out the performance.
+- **Performant:** Throw thousands of notes at it and Bangle will chug along fine. _(Try opening a heavy project like [10,000 Markdown Files](https://github.com/Zettelkasten-Method/10000-markdown-files).)_
 
 ### Why should you try it out?
 
-The cost of trying it out is low, a there is no data lock-in because Bangle is completely local and uses Markdown syntax to read/write your notes.
+The cost of trying it out is low as this is a web app, not installation and as I mentioned above there is no data lock-in. You can open your existing Markdown notes try it out and still continue to use your favorite note taking app.
 
-**Bangle.io is in its early stages**, so expect some important features missing and some stability issues. If you are already happy with your current setup, thats great, but if you think there is potential her please help us spread the word, every bit counts :raising_hand_woman: !
+**Bangle.io is in its early stages**, so expect some important features missing and some stability issues. If you are already happy with your current setup, thats great, but if you think there is a potential here please help us spread the word, every bit counts :raising_hand_woman: !
 
 ### Head to :green_book: [[Getting Started]] to create your workspace
 
-Follow the project on :bird: **[Twitter](https://twitter.com/home).**
+Follow the project on :bird: **[Twitter](https://twitter.com/IoBangle).**
 
 For thoughts or :heart: please join us at our **[Discord channel](https://discord.gg/GvvbWJrVQY)**.
 

@@ -4,7 +4,7 @@
 
 To start taking notes, let us first create a new Workspace.
 
-![](/assets/images/image-2021-05-18-23-46-44-148.png)
+![-scale0.50](/assets/images/image-2021-05-18-23-46-44-148.png)
 
 Click on the Command Palette icon at top right.
 
@@ -12,7 +12,7 @@ Click on the Command Palette icon at top right.
 
 You can either search for a command or scroll through the list. We want to run the`New workspace` command as shown below:
 
-![](/assets/images/image-2021-05-18-23-53-04-138.png)
+![-scale0.50](/assets/images/image-2021-05-18-23-53-04-138.png)
 
 Once executed select one of the following options:
 
@@ -32,15 +32,15 @@ If you selected `Your computer`, you will be shown a directory picker. If you al
 
 There are two ways to create a new note:
 
-- Execute the command `New note` in the Command Palette
+- **Using a command:** Execute the command `New note` from the command palette.
 
-- In an existing note create a backlink to the new note by typing`[[` followed by the name of your note and then clicking on the link to create it.
+- **Inline backlink:** In an existing note create a backlink to a new note by typing`[[` followed by the name of your note you wish to create.
 
 ### Using inline palette
 
 You can type `/` anywhere in your document or press `Command-/` (mac) `Ctrl-/` (win) to bring a handy toolbar for inserting things.
 
-![](/assets/images/image-2021-05-19-00-07-44-514.png)
+![-scale0.75](/assets/images/image-2021-05-19-00-07-44-514.png)
 
 ### Formatting text
 
@@ -66,6 +66,6 @@ Bangle expects users to use standard markdown shortcuts to format text.
 
 - `[ ]` followed by space for todo list or `Cmd-shift-7`
 
-You can also select the test to bring up the floating menu to making formatting changes.
+You can also select text to bring up a floating menu to making formatting changes.
 
-![](/assets/images/image-2021-05-19-00-18-22-818.png)
+![-scale0.50](/assets/images/image-2021-05-19-00-18-22-818.png)
