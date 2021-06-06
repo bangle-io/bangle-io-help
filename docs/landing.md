@@ -28,13 +28,13 @@ _(_:bulb: _yes you can edit this page!)_
 
 ### 3. Portability at its core
 
-- **No Electron:**  :heart: for web and speed, thats it.
+- **No Electron:** :heart: for web and speed, thats it.
 
 - **Performant:** Throw thousands of notes at it and Bangle will chug along fine. _(Try opening a heavy project like [10,000 Markdown Files](https://github.com/Zettelkasten-Method/10000-markdown-files).)_
 
-### Why should you try it out?
+### Why try it out?
 
-The cost of trying it out is low as this is a web app, not installation and as I mentioned above there is no data lock-in. You can open your existing Markdown notes try it out and still continue to use your favorite note taking app.
+The cost of trying it out is low as this is a web app, no installation is needed. Also, as mentioned above there is no data lock-in. You can open your existing Markdown notes try it out and still continue to use your favorite note taking app.
 
 **Bangle.io is in its early stages**, so expect some important features missing and some stability issues. If you are already happy with your current setup, thats great, but if you think there is a potential here please help us spread the word, every bit counts :raising_hand_woman: !
 
