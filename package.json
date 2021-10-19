@@ -1,6 +1,6 @@
 {
   "name": "bangle-io-help",
-  "version": "1.7.2",
+  "version": "1.8.0",
   "description": "This is the help page.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

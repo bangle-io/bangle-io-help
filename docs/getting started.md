@@ -1,6 +1,14 @@
 # Getting Started
 
+Hello,
+
+Thanks for taking out the time to read about [bangle.io](https://bangle.io). Here is a short guide to get your started.
+
 ### Creating a workspace
+
+Workspaces are collection of notes that you can open with Bangle.io. You can choose to have multiple workspaces or keep all your notes in one workspace.
+
+:warning: _Don't forget to backup before opening your data. If you are in hurry simply copy and paste all your notes to another location to create a backup._
 
 To start taking notes, let us first create a new Workspace.
 
@@ -22,11 +30,11 @@ Once executed select one of the following options:
 
 :bulb:_We recommend that you store the notes in your computer to fully take advantage of all the features._
 
-If you selected `Your computer`, you will be shown a directory picker. If you already have Markdown notes open the directory containing them or create a new directory that Bangle will use to save your notes.
+- Next you will be shown a directory picker.
+- If you already have Markdown notes select that folder.
+- Or create a new directory that Bangle will use to save your notes.
 
 :bulb:_Pick a directory in a memorable location like Desktop, Documents etc._
-
-:warning: _Don't forget to backup before opening your data. If you are in hurry simply copy and paste all your notes to another location to create a backup._
 
 ### Creating a note
 
@@ -44,7 +52,7 @@ You can type `/` anywhere in your document or press `Command-/` (mac) `Ctrl-/` (
 
 ### Formatting text
 
-Bangle expects users to use standard markdown shortcuts to format text.
+Bangle uses the following markdown shortcuts to format text:
 
 - **bold** `Cmd+B`
 
