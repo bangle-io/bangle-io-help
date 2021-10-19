@@ -2,7 +2,7 @@
 
 Hello,
 
-Thanks for taking out the time to read about [bangle.io](https://bangle.io). Here is a short guide to get your started.
+Thanks for taking out the time to tryout about [bangle.io](https://bangle.io). Here is a short guide to get your started.
 
 ### Creating a workspace
 
