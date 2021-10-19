@@ -14,11 +14,9 @@ To start taking notes, let us first create a new Workspace.
 
 ![-scale0.50](/assets/images/image-2021-05-18-23-46-44-148.png)
 
-Click on the Command Palette icon at top right.
+Click on the Action Palette icon at top right.
 
-> :keyboard: Command Palette can be triggered by pressing `Command-Shift-p` on mac, `Ctrl-Shift-P` on windows, `Command-O` mac Firefox,  `Ctrl-O` windows Firefox.
-
-You can either search for a command or scroll through the list. We want to run the`New workspace` command as shown below:
+Run the `New workspace` action as shown below:
 
 ![-scale0.50](/assets/images/image-2021-05-18-23-53-04-138.png)
 
@@ -34,13 +32,11 @@ Once executed select one of the following options:
 - If you already have Markdown notes select that folder.
 - Or create a new directory that Bangle will use to save your notes.
 
-:bulb:_Pick a directory in a memorable location like Desktop, Documents etc._
-
 ### Creating a note
 
 There are two ways to create a new note:
 
-- **Using a command:** Execute the command `New note` from the command palette.
+- **Using an action:** Execute the action `New note` from the Action Palette.
 
 - **Inline backlink:** In an existing note create a backlink to a new note by typing`[[` followed by the name of your note you wish to create.
 
