@@ -1,54 +1,50 @@
-# Getting Started
-
-Hello,
+## Hello :writing_hand:
 
 Here is a short guide to get you started.
 
-### Creating a workspace
+### Navigating the app
 
-Workspaces are collection of notes that you can open with Bangle.io. You can choose to have multiple workspaces or keep all your notes in one workspace.
+- **Action palette (**`cmd-shift-p`mac or `ctrl-shift-p` win): Actions are used to execute operations in bangle. You can type an action name and press enter to execute it.
 
-:warning: _Don't forget to backup before opening your data. If you are in hurry simply copy and paste all your notes to another location to create a backup._
+- **Notes palette** (`cmd-p` mac or `ctrl-p` win): You can use palette to quickly jump to a note. Press `enter` to open it or `shift-enter` to open on side.
 
-To start taking notes, let us first create a new Workspace.
+---
 
-![-scale0.50](/assets/images/image-2021-05-18-23-46-44-148.png)
+### Opening workspace
 
-Click on the Action Palette icon at top right.
+> :book:  Workspaces are collection of notes that you can open with Bangle.io.
 
-Run the `New workspace` action as shown below:
+- Open an action palette by pressing `cmd-shift-p`(mac) or `ctrl-shift-p`(win)
 
-![-scale0.50](/assets/images/image-2021-05-18-23-53-04-138.png)
+- Run the `New workspace` action.
 
-Once executed select one of the following options:
+- :medal_military: We _strongly_ recommend that you save notes in **Your computer** to take full advantage of bangle.
 
-- **Your computer**: This option allows bangle to open a directory in your computer, ideally have markdown notes. Note: It is currently only available in Chrome and Edge browsers.
+- Once you select **Your computer,** you will be shown a directory picker. You can open your existing markdown notes directory or create a new one.
 
-- **Browser:** If you cannot use the above option you can save your notes in the browser storage. Though it has the drawback of not opening any of your existing notes.
+- :warning: _Don't forget to backup before opening your data. If you are in hurry simply copy and paste all your notes to another location to create a backup._
 
-:bulb:_We recommend that you store the notes in your computer to fully take advantage of all the features._
-
-- Next you will be shown a directory picker.
-- If you already have Markdown notes select that folder.
-- Or create a new directory that Bangle will use to save your notes.
+---
 
 ### Creating a note
 
-There are two ways to create a new note:
+After creating a workspace, there are two ways to create a new note:
 
 - **Using an action:** Execute the action `New note` from the Action Palette.
 
 - **Inline backlink:** In an existing note create a backlink to a new note by typing`[[` followed by the name of your note you wish to create.
 
+---
+
 ### Using inline palette
 
-You can type `/` anywhere in your document or press `Command-/` (mac) `Ctrl-/` (win) to bring a handy toolbar for inserting things.
+You can type `/` anywhere in your note or press `Command-/` (mac) `Ctrl-/` (win) to bring a handy toolbar for inserting things.
 
-![-scale0.75](/assets/images/image-2021-05-19-00-07-44-514.png)
+---
 
 ### Formatting text
 
-Bangle uses the following markdown shortcuts to format text:
+Bangle saves all your notes in markdown format and  uses the following markdown shortcuts to format text:
 
 - **bold** `Cmd+B`
 
@@ -72,4 +68,4 @@ Bangle uses the following markdown shortcuts to format text:
 
 You can also select text to bring up a floating menu to making formatting changes.
 
-![-scale0.50](/assets/images/image-2021-05-19-00-18-22-818.png)
+> Follow us on [Twitter](https://twitter.com/bangle_io) or [Discord](https://discord.gg/GvvbWJrVQY)
