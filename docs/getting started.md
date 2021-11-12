@@ -4,7 +4,7 @@ Here is a short guide to get you started.
 
 ### Navigating the app
 
-- **Action palette (**`cmd-shift-p`mac or `ctrl-shift-p` win): Actions are used to execute operations in bangle. You can type an action name and press enter to execute it.
+- **Action palette** (`cmd-shift-p`mac or `ctrl-shift-p` win): Actions are used to execute operations in bangle. You can type an action name and press enter to execute it.
 
 - **Notes palette** (`cmd-p` mac or `ctrl-p` win): You can use palette to quickly jump to a note. Press `enter` to open it or `shift-enter` to open on side.
 
@@ -12,7 +12,7 @@ Here is a short guide to get you started.
 
 ### Opening workspace
 
-> :book:  Workspaces are collection of notes that you can open with Bangle.io.
+> :book: Workspace is a place where bangle saves all of your notes.
 
 - Open an action palette by pressing `cmd-shift-p`(mac) or `ctrl-shift-p`(win)
 
@@ -22,7 +22,7 @@ Here is a short guide to get you started.
 
 - Once you select **Your computer,** you will be shown a directory picker. You can open your existing markdown notes directory or create a new one.
 
-- :warning: _Don't forget to backup before opening your data. If you are in hurry simply copy and paste all your notes to another location to create a backup._
+> :warning: _Don't forget to backup before opening your data. If you are in hurry simply copy and paste all your notes to another location to create a backup._
 
 ---
 
