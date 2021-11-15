@@ -18,9 +18,9 @@ Here is a short guide to get you started.
 
 - Run the `New workspace` action.
 
-- :medal_military: We _strongly_ recommend that you save notes in **Your computer** to take full advantage of bangle.
+- :medal_military: We _strongly_ recommend that you save notes in **File system** to take full advantage of bangle.
 
-- Once you select **Your computer,** you will be shown a directory picker. You can open your existing markdown notes directory or create a new one.
+- Next click `Browse` and you will be shown a directory picker. You can open your existing markdown notes directory or create a new one :sparkling_heart:.
 
 > :warning: _Don't forget to backup before opening your data. If you are in hurry simply copy and paste all your notes to another location to create a backup._
 
@@ -39,6 +39,12 @@ After creating a workspace, there are two ways to create a new note:
 ### Using inline palette
 
 You can type `/` anywhere in your note or press `Command-/` (mac) `Ctrl-/` (win) to bring a handy toolbar for inserting things.
+
+---
+
+### Emoji
+
+Press `:` to bring the Emoji picker :see_no_evil:.
 
 ---
 
