@@ -4,7 +4,7 @@ Here is a short guide to get you started.
 
 ### Navigating the app
 
-- **Action palette** (`cmd-shift-p`mac or `ctrl-shift-p` win): Actions are used to execute operations in bangle. You can type an action name and press enter to execute it.
+- **Operation palette** (`cmd-shift-p`mac or `ctrl-shift-p` win): Operations are used to execute operations in bangle. You can type an operation name and press enter to execute it.
 
 - **Notes palette** (`cmd-p` mac or `ctrl-p` win): You can use palette to quickly jump to a note. Press `enter` to open it or `shift-enter` to open on side.
 
@@ -14,9 +14,9 @@ Here is a short guide to get you started.
 
 > :book: Workspace is a place where bangle saves all of your notes.
 
-- Open an action palette by pressing `cmd-shift-p`(mac) or `ctrl-shift-p`(win)
+- Open an operation palette by pressing `cmd-shift-p`(mac) or `ctrl-shift-p`(win)
 
-- Run the `New workspace` action.
+- Run the `New workspace` operation.
 
 - :medal_military: We _strongly_ recommend that you save notes in **File system** to take full advantage of bangle.
 
@@ -30,7 +30,7 @@ Here is a short guide to get you started.
 
 After creating a workspace, there are two ways to create a new note:
 
-- **Using an action:** Execute the action `New note` from the Action Palette.
+- **Using an operation:** Execute the operation `New note` from the Operation Palette.
 
 - **Inline backlink:** In an existing note create a backlink to a new note by typing`[[` followed by the name of your note you wish to create.
 
